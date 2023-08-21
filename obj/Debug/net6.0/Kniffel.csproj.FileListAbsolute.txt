@@ -1,0 +1,14 @@
+D:\nikom\Code files\VS source\repos\Kniffel\bin\Debug\net6.0\Kniffel.exe
+D:\nikom\Code files\VS source\repos\Kniffel\bin\Debug\net6.0\Kniffel.deps.json
+D:\nikom\Code files\VS source\repos\Kniffel\bin\Debug\net6.0\Kniffel.runtimeconfig.json
+D:\nikom\Code files\VS source\repos\Kniffel\bin\Debug\net6.0\Kniffel.dll
+D:\nikom\Code files\VS source\repos\Kniffel\bin\Debug\net6.0\Kniffel.pdb
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.GeneratedMSBuildEditorConfig.editorconfig
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.AssemblyInfoInputs.cache
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.AssemblyInfo.cs
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.csproj.CoreCompileInputs.cache
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.dll
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\refint\Kniffel.dll
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.pdb
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\Kniffel.genruntimeconfig.cache
+D:\nikom\Code files\VS source\repos\Kniffel\obj\Debug\net6.0\ref\Kniffel.dll
